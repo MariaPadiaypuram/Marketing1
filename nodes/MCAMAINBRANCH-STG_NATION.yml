@@ -9,7 +9,7 @@ steps:
         truncateBefore: true
       database: ""
       deployEnabled: true
-      description: Description 1
+      description: Description 123
       isMultisource: false
       locationName: MCAMAINBRANCH
       materializationType: table
