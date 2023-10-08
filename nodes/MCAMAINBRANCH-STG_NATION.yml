@@ -11,7 +11,6 @@ steps:
       deployEnabled: true
       description: |+
         Description 2
-
       isMultisource: false
       locationName: MCAMAINBRANCH
       materializationType: table
