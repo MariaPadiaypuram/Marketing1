@@ -5,11 +5,11 @@ locations:
   MCAMAINBRANCH:
     mappingDefinitions:
       "11":
-        database: QAENVIRONMENT
-        schema: QATESTING
+        database: MCAMAINBRANCH
+        schema: MCAMAIN
       "15":
-        database: PRODUCTIONDB
-        schema: PRODUCTION
+        database: MCAMAINBRANCH
+        schema: MCAMAIN
   SOURCE:
     mappingDefinitions:
       "11":
