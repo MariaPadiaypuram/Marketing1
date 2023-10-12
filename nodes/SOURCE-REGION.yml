@@ -1,5 +1,5 @@
 steps:
-  REGION-94f23d86-ce93-4576-a45f-f72b44de30cf:
+  REGION-00f7401a-fe2a-448a-a055-c60c5787258a:
     operation:
       database: ""
       dataset: ""
@@ -14,8 +14,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 3b3d2835-9b74-4243-ad07-8e62bda1b676
-              stepCounter: 94f23d86-ce93-4576-a45f-f72b44de30cf
+              columnCounter: a7394051-6f61-4981-8411-4b62f6a828a3
+              stepCounter: 00f7401a-fe2a-448a-a055-c60c5787258a
             config: {}
             dataType: NUMBER(38,0)
             defaultValue: ""
@@ -29,8 +29,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 2b921972-8935-43c3-81f7-0d5c51020cba
-              stepCounter: 94f23d86-ce93-4576-a45f-f72b44de30cf
+              columnCounter: 194eadfe-3d15-4df1-810b-25585770380f
+              stepCounter: 00f7401a-fe2a-448a-a055-c60c5787258a
             config: {}
             dataType: VARCHAR(25)
             defaultValue: ""
@@ -44,8 +44,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 3ed0e882-bd8c-4164-b8e5-b6b2cdd9ef65
-              stepCounter: 94f23d86-ce93-4576-a45f-f72b44de30cf
+              columnCounter: 3481ad4d-9726-4db0-9ce0-00ff9f282757
+              stepCounter: 00f7401a-fe2a-448a-a055-c60c5787258a
             config: {}
             dataType: VARCHAR(152)
             defaultValue: ""
@@ -61,4 +61,4 @@ steps:
       sqlType: Source
       table: REGION
       type: sourceInput
-    stepCounter: 94f23d86-ce93-4576-a45f-f72b44de30cf
+    stepCounter: 00f7401a-fe2a-448a-a055-c60c5787258a
